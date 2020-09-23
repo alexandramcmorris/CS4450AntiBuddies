@@ -1,6 +1,16 @@
 # AntiBuddies-
 CS 4450 Final Project
 
+
+
+## For future students read "Anti-Buddies Handoff Document". The following is previous semester information.
+
+
+
+
+
+
+
 READ ME 
 
 Hardware required for the project: Mac for ios development, PC for Database & Web development. 
